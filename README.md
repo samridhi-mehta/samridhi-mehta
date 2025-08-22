@@ -1,27 +1,34 @@
-# Hey, I’m Samridhi Mehta  
-**Software Engineer → Business Analyst | Data Storyteller | SQL • Power BI • Tableau • Python • SAP | MSBA @ UMass Amherst | Exploring Analytics & Consulting Roles**
+# Hi, I’m Samridhi Mehta  
+
+I love solving problems at the intersection of **data, technology, and business**.  
+Here you’ll find a mix of my professional projects, academic work, and side experiments.  
 
 ---
 
-### My Story  
-I started my career in software engineering, building and supporting enterprise systems at Accenture. Writing code and solving technical problems was rewarding, but what really excited me was asking: *“Why are we solving this in the first place?”*  
-
-That curiosity pulled me from pure coding into business analysis, where I focused on gathering requirements, translating stakeholder chaos into user stories, and running UATs, and eventually into data.  
-
-Now, as a graduate student in Business Analytics at UMass Amherst, I’ve gone deep into SQL queries, Power BI dashboards, and Python models, while continuing to build on my enterprise systems background. I still love building things, but even more, I love connecting the dots between data, systems, and business problems.  
-
----
-
-### Things I Geek Out On  
-- Writing SQL queries that make messy data elegant  
-- Automating manual tasks with scripts and workflows  
-- Building dashboards that stakeholders actually use  
-- Feature engineering for ML models (and debating hyperparameters late at night)  
-- Turning business chaos into structured, testable solutions  
+## The Problems I Love Solving  
+- Making messy data elegant with **SQL**  
+- Storytelling through **dashboards** (Power BI, Tableau)  
+- Experimenting with **ML models** in Python  
+- Automating processes so people can focus on strategy  
+- Exploring the balance between **software engineering structure** and **business insights**  
 
 ---
 
-### Tech Stack  
+## Featured Projects  
+- **DJIA Forecasting** → Time series + regression models with 92% accuracy, visualized in Power BI  
+- **Diabetes ML Prediction** → Logistic Regression & Decision Trees achieving 85% accuracy on healthcare data  
+- **SQL Sales Analytics** → Queries to uncover sales trends, customer behavior, and product performance  
+
+---
+
+## Currently Exploring  
+- Advanced **SQL optimization** for large-scale datasets  
+- How **AI & analytics** can improve decision-making in business  
+- New ways to blend **SAP ERP data** with visualization tools  
+
+---
+
+## Tech Stack  
 
 **Data & Analytics**  
 - SQL (MySQL, SQL Server, Oracle)  
@@ -46,18 +53,5 @@ Now, as a graduate student in Business Analytics at UMass Amherst, I’ve gone d
 
 ---
 
-### Projects I’m Proud Of  
-- **DJIA Forecasting** → Time series and regression to predict index performance with 92% accuracy, visualized in Power BI for scenario planning.  
-- **Diabetes ML Prediction** → Built predictive models with 85% accuracy to enable early diagnosis and proactive healthcare.  
-- **SQL Sales Analytics** → Designed a relational database and queries to analyze customer behavior, sales trends, and product performance.  
-- **SAP IS-U Tools** → Created custom IS-U tools: one boosted green power campaign responses by 18 percent, another automated UAT test data fetching (saving 15+ hours per week).  
-
----
-
-### What I’m Looking For  
-Exploring opportunities in analytics, consulting, and SAP, where I can combine my IT foundation, my analytics toolkit, and my problem-solving obsession to help organizations make smarter, data-driven decisions.  
-
----
-
 📧 **Email**: samridhimeht@umass.edu  
-🔗 **LinkedIn**: [linkedin.com/in/samridhimehta](https://linkedin.com/in/samridhimehta)
+🔗 **LinkedIn**: [linkedin.com/in/samridhimehta](https://linkedin.com/in/samridhimehta)  
