@@ -1,53 +1,63 @@
-# SAMRIDHI MEHTA
-
-**Data whisperer | Analytics explorer | Organized chaos manager**
-
-Hello,
-
-I'm **Samridhi**, a Business Analytics grad student at UMass Amherst with a passion for solving real-world problems through data and code.
-
-From decoding complex SAP systems at Accenture to analyzing market trends and streamlining operations, I’m all about making data meaningful and impactful.
+# Hey, I’m Samridh Mehta  
+**Software Engineer → Business Analyst | Data Storyteller | SQL • Power BI • Tableau • Python • SAP | MSBA @ UMass Amherst | Exploring Analytics & Consulting Roles**
 
 ---
 
-## What Drives Me
-- Finding the “why” behind numbers  
-- Making dashboards informative and intuitive using Power BI and Tableau  
-- Predicting trends through statistical and machine learning models  
-- Automating repetitive workflows to save time and reduce errors  
-- Translating stakeholder chaos into structured user stories  
+### My Story  
+I started my career in software engineering, building and supporting enterprise systems at Accenture. Writing code and solving technical problems was rewarding, but what really excited me was asking: *“Why are we solving this in the first place?”*  
+
+That curiosity pulled me from pure coding into business analysis, where I focused on gathering requirements, translating stakeholder chaos into user stories, and running UATs, and eventually into data.  
+
+Now, as a graduate student in Business Analytics at UMass Amherst, I’ve gone deep into SQL queries, Power BI dashboards, and Python models, while continuing to build on my enterprise systems background. I still love building things, but even more, I love connecting the dots between data, systems, and business problems.  
 
 ---
 
-## My Tech Arsenal
-**Languages & Tools:**  
-SQL • Power BI • Tableau • Advanced Excel • Python •  
-SAP ABAP • SAP S/4 HANA • SAP ISU • SAP CRM • 
-Agile • ServiceNow • Jira • Confluence •   
-Project Management • Data Modeling • Automation • Storytelling with Data • Escalation Management •   
+### Things I Geek Out On  
+- Writing SQL queries that make messy data elegant  
+- Automating manual tasks with scripts and workflows  
+- Building dashboards that stakeholders actually use  
+- Feature engineering for ML models (and debating hyperparameters late at night)  
+- Turning business chaos into structured, testable solutions  
 
 ---
 
-## Work Tales
-- Managed full SAP lifecycle projects, transforming specifications into business-ready tools  
-- Built dashboards that informed key business decisions  
-- Automated regression testing processes, reducing manual effort and improving coverage  
-- Developed data models to enable accurate forecasting and real-time insights  
+### Tech Stack  
+
+**Data & Analytics**  
+- SQL (MySQL, SQL Server, Oracle)  
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
+- Power BI (DAX, RLS)  
+- Tableau  
+- Excel (Pivot Tables, Power Query, VBA)  
+
+**ERP & Enterprise Systems**  
+- SAP IS-U • SAP ABAP • SAP S/4 HANA • SAP CRM  
+
+**Data Engineering & Modeling**  
+- ETL/ELT Pipelines  
+- Star Schema & Dimensional Modeling  
+- Data Validation  
+
+**Project & Delivery**  
+- Agile (Scrum, Sprint Planning, Backlog Grooming)  
+- Requirement Gathering & User Stories  
+- UAT & Regression Testing  
+- JIRA, Confluence, HP ALM, ServiceNow  
 
 ---
 
-## Currently
-- Deep-diving into analytics and predictive modeling  
-- Exploring opportunities in data, product, or strategy teams  
-- Still thinking about that one dashboard I built at 2AM that just... clicked  
-- Continuously learning and experimenting with new tools and ideas  
+### Projects I’m Proud Of  
+- **DJIA Forecasting** → Time series and regression to predict index performance with 92% accuracy, visualized in Power BI for scenario planning.  
+- **Diabetes ML Prediction** → Built predictive models with 85% accuracy to enable early diagnosis and proactive healthcare.  
+- **SQL Sales Analytics** → Designed a relational database and queries to analyze customer behavior, sales trends, and product performance.  
+- **SAP IS-U Tools** → Created custom IS-U tools: one boosted green power campaign responses by 18 percent, another automated UAT test data fetching (saving 15+ hours per week).  
 
 ---
 
-## Let’s Connect
-📧 **Email:** [samridhimeht@umass.edu](mailto:samridhimeht@umass.edu)  
-🔗 **LinkedIn:** [linkedin.com/in/samridhimehta](https://www.linkedin.com/in/samridhimehta)
+### What I’m Looking For  
+Exploring opportunities in analytics, consulting, and SAP, where I can combine my IT foundation, my analytics toolkit, and my problem-solving obsession to help organizations make smarter, data-driven decisions.  
 
 ---
 
-> “Data is the new oil, but storytelling is the engine.” — Probably me.
+📧 **Email**: samridhimeht@umass.edu  
+🔗 **LinkedIn**: [linkedin.com/in/samridhimehta](https://linkedin.com/in/samridhimehta)
