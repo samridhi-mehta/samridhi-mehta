@@ -1,4 +1,4 @@
-# Hey, I’m Samridh Mehta  
+# Hey, I’m Samridhi Mehta  
 **Software Engineer → Business Analyst | Data Storyteller | SQL • Power BI • Tableau • Python • SAP | MSBA @ UMass Amherst | Exploring Analytics & Consulting Roles**
 
 ---
